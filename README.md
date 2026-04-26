@@ -1,16 +1,6 @@
-# 🤖 AI Engineering Journey — LLMs · LangChain · RAG · Agents · Deployment
+#  AI Engineering Journey — LLMs · LangChain · RAG · Agents · Deployment
 
-> From Python fundamentals to production-deployed LLM applications — a structured 6-phase self-study roadmap.
-
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
-[![LangChain](https://img.shields.io/badge/LangChain-latest-green)](https://python.langchain.com)
-[![Groq](https://img.shields.io/badge/LLM-Groq%20%7C%20Llama3-orange)](https://groq.com)
-[![FastAPI](https://img.shields.io/badge/API-FastAPI-teal)](https://fastapi.tiangolo.com)
-[![Docker](https://img.shields.io/badge/Deploy-Docker%20%7C%20Railway-blueviolet)](https://railway.app)
-
----
-
-## 🚀 Live Project
+##  Live Project
 
 **RAG PDF Chatbot** — Ask questions about any PDF using Llama 3 via Groq, deployed on Railway.
 
