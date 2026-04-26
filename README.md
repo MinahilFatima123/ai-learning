@@ -14,7 +14,7 @@
 
 **RAG PDF Chatbot** — Ask questions about any PDF using Llama 3 via Groq, deployed on Railway.
 
-🔗 **[Live Demo](https://rag-pdf-chatbot-production-e417.up.railway.app/docs)** · **[Source Code](https://github.com/MinahilFatima123/rag-pdf-chatbot)** ← *(update link)*
+🔗 **[Live Demo](https://rag-pdf-chatbot-production-e417.up.railway.app/docs)** · **[Source Code](https://github.com/MinahilFatima123/rag-pdf-chatbot)** 
 
 ---
 
