@@ -92,7 +92,6 @@ Production-grade RAG pipeline — the flagship project.
 ## 📚 Resources Used
 
 - [LangChain Docs](https://python.langchain.com)
-- [DeepLearning.ai RAG Course](https://deeplearning.ai) (free)
 - [LangSmith Docs](https://docs.smith.langchain.com)
 - [FastAPI Docs](https://fastapi.tiangolo.com)
 - [Groq API Docs](https://console.groq.com/docs)
